@@ -1,0 +1,13 @@
+{
+    "name": "@makennamartin97/mypackage",
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": "makennamartin97/mypackage",
+    "main": "index.js",
+    "keywords": [
+        "npm",
+        "package",
+        "makennamartin97"
+    ]
+}
